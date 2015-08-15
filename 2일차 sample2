@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Sample Document</title>
+    <link rel="stylesheet"href="style.css">
+</head>
+<body>
+
+    <p>
+        <a href="http://www.naver.com">NAVER</a><br>
+        <a href="http://www.blog.daum.net">DAUM</a><br>
+    </p>
+    
+    <p>
+        <strong class="front" id="end">C</strong>ascading
+        <strong id="end">S</strong>tyle
+        <span id="end">S</span>heet
+    </p>
+    
+</body>
+</html>
